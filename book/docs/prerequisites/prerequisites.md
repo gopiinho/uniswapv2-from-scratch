@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Prerequisites
 
-Before we continue building Uniswap V2, its better to have basic knowledge of few fundamentals. It is absolutely not necessary but will make going throught his book a lot more sense if you are not aware of these concepts.
+Before we continue building Uniswap V2, its better to have basic knowledge of few fundamentals. It is absolutely not necessary but will make going throught this book a lot more sense if you are not aware of these concepts.
 
 
 ### DeFi Concepts
@@ -32,7 +32,7 @@ You should be comfortable reading and writing Solidity code - including concepts
 
 A decent grasp on how the Ethereum Virtual Machine and transactions work:
 
-- Has, blocks, and transactions
+- Gas, blocks, and transactions
 - Contract addresses
 - How `ERC20` tokens work and why `approve()`, and `transferFrom()` are used
 
@@ -43,7 +43,7 @@ A decent grasp on how the Ethereum Virtual Machine and transactions work:
 
 Just like me, you don't need to be a mathematician, but familiarity with:
 
-- Understanding of constant product formula - `x * y = k`
+- Understanding of constant product formula: `x * y = k`
 - Multiplication & division of integers in Solidity
 - Ratios and proportional reasoning
 

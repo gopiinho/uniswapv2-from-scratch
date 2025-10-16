@@ -37,3 +37,14 @@ A decent grasp on how the Ethereum Virtual Machine and transactions work:
 - How `ERC20` tokens work and why `approve()`, and `transferFrom()` are used
 
 **Why**: Swaps and liquidity provisions rely on tokens transfers and balance tracking.
+
+
+### Mathematical Concepts
+
+Just like me, you don't need to be a mathematician, but familiarity with:
+
+- Understanding of constant product formula - `x * y = k`
+- Multiplication & division of integers in Solidity
+- Ratios and proportional reasoning
+
+**Why**: Uniswap's pricing mechanisim depends entirely on these simple invariants.

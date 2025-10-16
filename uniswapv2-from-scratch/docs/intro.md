@@ -2,46 +2,17 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Introduction
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Uniswap V2 in simplest words is one of the most influential smart contracts ever written, its V1 was introduced on November 2, 2018 by [Hayden Adams](https://x.com/haydenzadams). Two years later its V2 was released and changed how AMMs work and to this day it is still the most forked DeFi protocol.
 
-## Getting Started
+This book, **Uniswap V2 From Scratch** is not just a walkthrough the code, we will built it from scratch and understand why it was designed the way it was, how it works and why you should bother to learn its architecture. Regardless of this book, I highly recommend going through [Uniswap V2 Whitepaper](https://docs.uniswap.org/whitepaper.pdf).
 
-Get started by **creating a new site**.
+By the end, you won't just know how Uniswap V2 works — you'll know how to build it yourself or fork and modify the original version. Whether you're a DeFi developer or a smart contract researcher, this book will give you a mental model on how decentralized exchanges work, specifically Uniswap V2.
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+### What you'll learn
 
-### What you'll need
-
-- [Node.js](https://nodejs.org/en/download/) version 20.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
-
-## Generate a new site
-
-Generate a new Docusaurus site using the **classic template**.
-
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+- What are AMMs (Automated Market Makers) and its mathematical foundation
+- The architecture of Uniswap V2: `Factory`, `Pair` and `Router`
+- How fees and liquidity tokens work
+- How to build Uniswap V2 from scratch

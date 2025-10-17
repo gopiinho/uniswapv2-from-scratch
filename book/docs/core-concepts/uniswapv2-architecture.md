@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # Uniswap V2 Architecture
 
-Uniswap V2 at its core is very simple, it has 3 core contracts, [**`UniswapV2Pair`**](github.com/Uniswap/v2-core/blob/master/contracts/UniswapV2Pair.sol), [**`UniswapV2Factory`**](github.com/Uniswap/v2-core/blob/master/contracts/UniswapV2Factory.sol), and [**`UniswapV2Router02`**](https://github.com/Uniswap/v2-periphery/blob/master/contracts/UniswapV2Router02.sol). And before we continue on building them from scratch it would make sense to get a brief overview on what role each of these contracts serve to whole protocol. 
+Uniswap V2 at its core is very simple, it has 3 core contracts, [**`UniswapV2Pair`**](https://github.com/Uniswap/v2-core/blob/master/contracts/UniswapV2Pair.sol), [**`UniswapV2Factory`**](https://github.com/Uniswap/v2-core/blob/master/contracts/UniswapV2Factory.sol), and [**`UniswapV2Router02`**](https://github.com/Uniswap/v2-periphery/blob/master/contracts/UniswapV2Router02.sol). And before we continue on building them from scratch it would make sense to get a brief overview on what role each of these contracts serve to whole protocol. 
 
 ### UniswapV2Pair
 

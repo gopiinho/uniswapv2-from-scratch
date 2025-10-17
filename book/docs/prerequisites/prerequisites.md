@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Prerequisites
 
-Before we continue building Uniswap V2, its better to have basic knowledge of few fundamentals. It is absolutely not necessary but will make going throught this book a lot more sense if you are not aware of these concepts.
+Before we continue building Uniswap V2, its better to have basic knowledge of few fundamentals. It is absolutely not necessary since we are going to cover some of these topics in incoming sections, it is still good to have prior muscle memory for these topics.
 
 
 ### DeFi Concepts

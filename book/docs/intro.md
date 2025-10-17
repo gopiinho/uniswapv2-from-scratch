@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Introduction
 
-Uniswap V2 in simplest words is one of the most influential smart contracts ever written, its V1 was introduced on November 2, 2018 by [Hayden Adams](https://x.com/haydenzadams). Two years later its V2 was released and changed how AMMs work and to this day it is still the most forked DeFi protocol.
+Uniswap V2 in simplest words is one of the most influential smart contracts ever written, its V1 was introduced on November 2, 2018 by [Hayden Adams](https://x.com/haydenzadams). Two years later its V2 was released and changed how AMMs work — and to this day it is still the most forked DeFi protocol.
 
 This book, **Uniswap V2 From Scratch** is not just a walkthrough the code, we will built it from scratch and understand why it was designed the way it was, how it works and why you should bother to learn its architecture. Regardless of this book, I highly recommend going through [Uniswap V2 Whitepaper](https://docs.uniswap.org/whitepaper.pdf).
 
